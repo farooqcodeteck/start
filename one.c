@@ -2,15 +2,15 @@
 
 void meow (int n);
 
-int main (void)
+int main(void)
 {
-    meow (5);
+    meow(5);
 
 }
 
-void meow   (int n)
+void meow(int n)
 {
-    for (int 1 = 0; i < n; 1++)
+    for (int 1 = 0; i < n; i++)
 {
     printf('meow \n");
 }
