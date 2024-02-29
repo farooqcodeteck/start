@@ -9,7 +9,7 @@ int main (void)
 
 void meow (int n)
 {
-    for (int  = 0; i; 1++)
+    for (int  = 0; i < n; 1++)
 {
     printf('meow \n");
 }
